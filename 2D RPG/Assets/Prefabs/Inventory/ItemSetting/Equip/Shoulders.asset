@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e3a09d5c461a72458cd666aac218afe, type: 3}
+  m_Name: Shoulders
+  m_EditorClassIdentifier: 
+  name: Shoulders
+  icon: {fileID: 21300000, guid: 39b3ee95498b842469fb17da7191ccc5, type: 3}
+  stackSize: 1
+  quality: 1
+  description: 
+  equipType: 1
+  armorModifier: 3
+  damageModifier: 0
+  speedModifier: 0
+  animationClips:
+  - {fileID: 7400000, guid: 4744b8f2eed65c14fbfc5ef5a92c2dba, type: 2}
+  - {fileID: 7400000, guid: a16b40eb213cfbf47a6786d9b2f7580b, type: 2}
+  - {fileID: 7400000, guid: 11b40067e3a9b5748ad7ced85723adde, type: 2}
+  - {fileID: 7400000, guid: 7fb61cccaaeedb741a4cc0cc539569a2, type: 2}
+  - {fileID: 7400000, guid: 1b06acac3f9ecf64aa69bf8b3d3ee9a2, type: 2}
+  - {fileID: 7400000, guid: d8d272d614339fd40995d578a628cd15, type: 2}
+  - {fileID: 7400000, guid: a980a68f86c078642b8d4fb83aff1757, type: 2}
+  - {fileID: 7400000, guid: 9b2a6de12a5208748a328bfc94665b38, type: 2}
+  - {fileID: 7400000, guid: 4dbda90689cd32243aac292c40243cf2, type: 2}
+  - {fileID: 7400000, guid: f7c90cba67c4e4248a98ac48da351d99, type: 2}
+  - {fileID: 7400000, guid: 171d20305d0df3643bb84520019778ad, type: 2}
+  - {fileID: 7400000, guid: 6bd6de5c78fbce54f9263b678333250f, type: 2}

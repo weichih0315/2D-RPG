@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2265c887d19b2334ea0ff6c244beefac, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  name: Apple
+  icon: {fileID: 21300000, guid: d8657f8e6f2d5104a8a4438d25e06ffc, type: 3}
+  stackSize: 10
+  quality: 0
+  description: a apple a day keep the doctor away
+  health: 5

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e3a09d5c461a72458cd666aac218afe, type: 3}
+  m_Name: Weapon
+  m_EditorClassIdentifier: 
+  name: Weapon
+  icon: {fileID: 21300000, guid: 1953aa3f95b7d72499408fbc8389664b, type: 3}
+  stackSize: 1
+  quality: 3
+  description: 
+  equipType: 6
+  armorModifier: 0
+  damageModifier: 10
+  speedModifier: 0
+  animationClips:
+  - {fileID: 7400000, guid: 6439434138decfb459003de8e20b779d, type: 2}
+  - {fileID: 7400000, guid: 440af59e84e1bc14fa5290d96cab529a, type: 2}
+  - {fileID: 7400000, guid: 6e8b49e1e6b9f7e4ba21455d1e1ce616, type: 2}
+  - {fileID: 7400000, guid: 02d72d28c498fa74595acefa200ab7a8, type: 2}
+  - {fileID: 7400000, guid: 074ec6082a3be9d4899de28f92fce5e6, type: 2}
+  - {fileID: 7400000, guid: 424c784e8e612aa4dafdb0f2df5cf3fb, type: 2}
+  - {fileID: 7400000, guid: 3f917148b2fda7d4da2ab4b614213240, type: 2}
+  - {fileID: 7400000, guid: 5e1ccc5482289034590b4fb71df871c2, type: 2}
+  - {fileID: 7400000, guid: 206b2e0d69a37e247a81a695353065c5, type: 2}
+  - {fileID: 7400000, guid: 18aeb510dcd03e04bbe6d8b15692e239, type: 2}
+  - {fileID: 7400000, guid: 03b545a58f8b5784da9dca7511b1ed70, type: 2}
+  - {fileID: 7400000, guid: 8a248b62a3272a74d8457cfbea2eb54e, type: 2}
